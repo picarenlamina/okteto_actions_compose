@@ -1,4 +1,4 @@
-# Source https://github.com/okteto/go-api-docker-compose/blob/main/.github/workflows/preview.yml
+# Source https://github.com/okteto/go-api-docker-compose/tree/main/.github/workflows
 
 name: MyPrueba
 
